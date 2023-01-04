@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prateek Verma.
-- 👀 I’m interested in Robotics and Automation.
-- 🌱 I’m currently learning - Deep Learning and Machine Learning in Robotics.
-- 💞️ I’m looking to collaborate on innovative projects based on cyber-physical systems.
+- 👀 I’m interested in Robotics and Edge AI.
+- 🌱 I’m currently learning - Deep Learning and Machine Learning for Robotics.
+- 💞️ I’m looking to collaborate on innovative projects based on Cyber-Physical Systems.
 - 📫 How to reach me - verma@terpmail.umd.edu
 
 <!---
