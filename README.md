@@ -22,7 +22,7 @@ I also worked as a Research and Development (R&D) Engineer at Qzense Labs, where
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> </a> 
-<a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://classic.gazebosim.org/assets/logos/gazebo_horz_neg-e0da3ed723798565c8f4016312f47f2041760d58a13991c79f01f7210fb140b2.png" alt="Gazebo" width="100" height="60"/> </a> 
+<a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://classic.gazebosim.org/assets/logos/gazebo_horz_neg-e0da3ed723798565c8f4016312f47f2041760d58a13991c79f01f7210fb140b2.png" alt="Gazebo" width="80" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="70" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -34,3 +34,5 @@ I also worked as a Research and Development (R&D) Engineer at Qzense Labs, where
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="http://arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png" alt="Arduino" width="90" height="40"/> </a>
+<a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://www.altium.com/sites/default/files/media_icon/2022-09/black-friday-bg-gray-logo.svg" alt="Altium Designer" width="120" height="40"/> </a>
