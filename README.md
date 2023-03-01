@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Prateek Verma</h1>
+<h1 align="center">Hi, I'm Prateek</h1>
 <h3 align="center">Robotics engineer</h3>
 
 <p align="justify">
-I am Prateek Verma, currently pursuing my Master of Engineering in Robotics from the University of Maryland, College Park. I completed my Bachelor of Technology in Electronics and Instrumentation Engineering from SRM University, Chennai, India, and my Master of Technology in Electronics Design and Technology from National Institute of Electronics and Information Technology, Aurangabad, India.
+I am currently pursuing my Master of Engineering in Robotics from the University of Maryland, College Park. I completed my Bachelor of Technology in Electronics and Instrumentation Engineering from SRM University, Chennai, India, and my Master of Technology in Electronics Design and Technology from National Institute of Electronics and Information Technology, Aurangabad, India.
 
 My technical skills include proficiency in Python, C++, Arduino, Pytorch, MATLAB, LabView, PLC Ladder Logic Programming, GitHub, Docker, AWS [EC2, S3], MQTT, I2C, SPI, and CAN. I also have experience with ROS/ROS2 [Gazebo/MAVROS/PX4], Embedded Linux [Yocto], SolidWorks, Altium Designer, Eagle CAD, 3D printing, and Rapid Prototyping.
 
@@ -33,3 +33,4 @@ I also worked as a Research and Development (R&D) Engineer at Qzense Labs, where
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="Matlab" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/> </a> 
