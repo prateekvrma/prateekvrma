@@ -10,7 +10,6 @@ In terms of work experience, I have served as a Graduate Research Assistant in t
 
 I also worked as a Research and Development (R&D) Engineer at Qzense Labs, where I led the end-to-end development of the prototypes - QScan & QLog, for real-time non-invasive quality analysis of Fruits & Vegetables. Additionally, I served as a Hardware Design Intern at Nymble Labs and a Research and Development (R&D) Intern at Orangewood Labs.
 
-Regarding relevant projects, I have built a real-time cyber-physical mobile robot, from scratch, with human pose estimation for localization, using OpenPose for 2D multi-person keypoint detection, Jetson Nano for edge computing, and Hardware-in-the-loop (HIL). I also developed an algorithm for autonomous navigation that detects curved lanes and predicts turns based on the road's curvature, and implemented Dijkstra and A* path planning algorithms in Python and Matplotlib for point and rigid robots in a 2D configuration space. Other notable projects include a Cartesian Robot-based Smartphone display testing device and building two robots for ROBOCON 2016 competition: Clean Energy Recharging the World.
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -23,8 +22,8 @@ Regarding relevant projects, I have built a real-time cyber-physical mobile robo
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> </a> 
-<a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://gazebosim.org/assets/images/gazebo_horz_pos_topbar.svg" alt="Gazebo" width="60" height="50"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="70"/> </a>
+<a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://classic.gazebosim.org/assets/logos/gazebo_horz_neg-e0da3ed723798565c8f4016312f47f2041760d58a13991c79f01f7210fb140b2.png" alt="Gazebo" width="100" height="60"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="70" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
