@@ -2,7 +2,15 @@
 <h3 align="center">Robotics engineer</h3>
 
 <p align="justify">
-I am a Master of Engineering in Robotics from the University of Maryland and a Master of Technology in Electronics Design and Technology from the National Institute of Electronics and Information Technology. He has strong skills in programming languages such as Python, C++, and Pytorch, and has experience in robotics and electronics, including ROS, embedded Linux, and PCB design. He has worked as a Graduate Research Assistant at the University of Maryland and held leadership positions at IoT and R&D companies, including KS Smart Solutions, Qzense Labs, Nymble Labs, and Orangewood Labs. He has also interned at Visteon Corporation.
+I am Prateek Verma, currently pursuing my Master of Engineering in Robotics from the University of Maryland, College Park. I completed my Bachelor of Technology in Electronics and Instrumentation Engineering from SRM University, Chennai, India, and my Master of Technology in Electronics Design and Technology from National Institute of Electronics and Information Technology, Aurangabad, India.
+
+My technical skills include proficiency in Python, C++, Arduino, Pytorch, MATLAB, LabView, PLC Ladder Logic Programming, GitHub, Docker, AWS [EC2, S3], MQTT, I2C, SPI, and CAN. I also have experience with ROS/ROS2 [Gazebo/MAVROS/PX4], Embedded Linux [Yocto], SolidWorks, Altium Designer, Eagle CAD, 3D printing, and Rapid Prototyping.
+
+In terms of work experience, I have served as a Graduate Research Assistant in the RAAS (Robotics Algorithms and Autonomous Systems) Lab at the Maryland Robotics Center, where I'm currently working on field experiments for Autonomous Planning and Navigation for Multi-Robot Ground and Aerial Collaborative Coordination and Decision Making, with the Army Research Lab (ARL) for the ArtIAMAS Program. Prior to that, I was the Head of Internet of Things (IoT) at KS Smart Solutions Pvt. Ltd, where I served as the Lead Solutions Architect and Manager for hardware-based projects: Smart City project and VR flight simulator project for the Indian Air Force.
+
+I also worked as a Research and Development (R&D) Engineer at Qzense Labs, where I led the end-to-end development of the prototypes - QScan & QLog, for real-time non-invasive quality analysis of Fruits & Vegetables. Additionally, I served as a Hardware Design Intern at Nymble Labs and a Research and Development (R&D) Intern at Orangewood Labs.
+
+Regarding relevant projects, I have built a real-time cyber-physical mobile robot, from scratch, with human pose estimation for localization, using OpenPose for 2D multi-person keypoint detection, Jetson Nano for edge computing, and Hardware-in-the-loop (HIL). I also developed an algorithm for autonomous navigation that detects curved lanes and predicts turns based on the road's curvature, and implemented Dijkstra and A* path planning algorithms in Python and Matplotlib for point and rigid robots in a 2D configuration space. Other notable projects include a Cartesian Robot-based Smartphone display testing device and building two robots for ROBOCON 2016 competition: Clean Energy Recharging the World.
 </p>
 
 <h3 align="left">Connect with me:</h3>
