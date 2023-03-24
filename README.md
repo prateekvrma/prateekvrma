@@ -35,4 +35,4 @@ I also worked as a Research and Development (R&D) Engineer at Qzense Labs, where
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="http://arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png" alt="Arduino" width="90" height="40"/> </a>
-<a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://www.altium.com/sites/default/files/media_icon/2022-09/black-friday-bg-gray-logo.svg" alt="Altium Designer" width="80" height="80"/> </a>
+<a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://www.altium.com//themes/custom/altium_designer/html/dist/images/logo-ad-black.svg" alt="Altium Designer" width="80" height="80"/> </a>
