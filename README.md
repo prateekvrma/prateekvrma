@@ -2,11 +2,13 @@
 <h3 align="center">Robotics engineer</h3>
 
 <p align="justify">
-I am currently pursuing my Master of Engineering in Robotics from the University of Maryland, College Park. I completed my Bachelor of Technology in Electronics and Instrumentation Engineering from SRM University, Chennai, India, and my Master of Technology in Electronics Design and Technology from National Institute of Electronics and Information Technology, Aurangabad, India.
+I am currently working as a Robotics Engineer at Faraday Future, building an Ultimate AI-enabled Luxury Electric Vehicle.
+  
+I have completed my Master's in Robotics from the University of Maryland, College Park. I completed my Bachelor of Technology in Electronics and Instrumentation Engineering from SRM University, Chennai, India, and my Master of Technology in Electronics Design and Technology from the National Institute of Electronics and Information Technology (NIELIT), Aurangabad, Maharashtra, India.
 
 My technical skills include proficiency in Python, C++, Arduino, Pytorch, MATLAB, LabView, PLC Ladder Logic Programming, GitHub, Docker, AWS [EC2, S3], MQTT, I2C, SPI, and CAN. I also have experience with ROS/ROS2 [Gazebo/MAVROS/PX4], Embedded Linux [Yocto], SolidWorks, Altium Designer, Eagle CAD, 3D printing, and Rapid Prototyping.
 
-In terms of work experience, I have served as a Graduate Research Assistant in the RAAS (Robotics Algorithms and Autonomous Systems) Lab at the Maryland Robotics Center, where I'm currently working on field experiments for Autonomous Planning and Navigation for Multi-Robot Ground and Aerial Collaborative Coordination and Decision Making, with the Army Research Lab (ARL) for the ArtIAMAS Program. Prior to that, I was the Head of Internet of Things (IoT) at KS Smart Solutions Pvt. Ltd, where I served as the Lead Solutions Architect and Manager for hardware-based projects: Smart City project and VR flight simulator project for the Indian Air Force.
+In terms of work experience, I have served as a Graduate Research Assistant in the RAAS (Robotics Algorithms and Autonomous Systems) Lab at the Maryland Robotics Center, where I'm currently working on field experiments for Autonomous Planning and Navigation for Multi-Robot Ground and Aerial Collaborative Coordination and Decision Making, with the Army Research Lab (ARL) for the ArtIAMAS Program. Before that, I was the Head of the Internet of Things (IoT) at KS Smart Solutions Pvt. Ltd, where I served as the Lead Solutions Architect and Manager for hardware-based projects: the Smart City project and a VR flight simulator project for the Indian Air Force.
 
 I also worked as a Research and Development (R&D) Engineer at Qzense Labs, where I led the end-to-end development of the prototypes - QScan & QLog, for real-time non-invasive quality analysis of Fruits & Vegetables. Additionally, I served as a Hardware Design Intern at Nymble Labs and a Research and Development (R&D) Intern at Orangewood Labs.
 
